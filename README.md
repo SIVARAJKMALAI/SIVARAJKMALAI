@@ -1,4 +1,7 @@
-![Sivaraj's Banner](https://github.com/sivarajkmalai/sivarajkmalai/blob/main/Assets/Banner.png)
+<p align="center">
+  <img src="https://github.com/sivarajkmalai/sivarajkmalai/blob/main/Assest/Banner.png" alt="Sivaraj's Banner"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;" alt="Typing SVG"/>
